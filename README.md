@@ -1,2 +1,2 @@
 # lherna.github.io
-Github repository for personal website
+Github repository for personal website.
