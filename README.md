@@ -8,5 +8,6 @@ Welcome! Luis Hernandez here, I am currently a former data analyst at Thermo Fis
 
 Contact
 
-<a href="mailto:luishndez.2012@gmail.com">Email: luishndez.2012@gmail.com</a>
+<a href="mailto:luishndez.2012@gmail.com">Email:luishndez.2012@gmail.com</a>
+</br>
 <a href="https://www.linkedin.com/in/lhndez/">LinkedIn</a> 
