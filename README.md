@@ -1,7 +1,7 @@
 # lherna.github.io
 
 <p align = "center">
-<img source="https://github.com/lherna/lherna.github.io/blob/main/images/portrait_main.jpg", width = 350, title="Luis Hernandez">
+<img source="https://github.com/lherna/lherna.github.io/blob/main/images/portrait_main.jpg", title="Luis Hernandez">
 </p>
 
 
