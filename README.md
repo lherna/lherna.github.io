@@ -6,7 +6,7 @@
 
 Welcome! Luis Hernandez here, I am currently a former data analyst at Thermo Fisher Scientific and currently a data science master's student at the University of California, Riverside. Coming from a background in physics, I have had the opportunity to impact the additive manufacturing, telecommunications and biotechnology industries through research and development, optimized design methods and operations automation. I am currently available on the market to continue making impact.
 
-<p style="font-size:15px">Contact</p>
+<p style="font-size:35px">Contact</p>
 
 <a href="mailto:luishndez.2012@gmail.com">Email</a>
 </br>
