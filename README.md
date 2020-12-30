@@ -1,4 +1,4 @@
-# lherna.github.io
+# Luis Hernandez (lherna.github.io)
 
 <p align="center">
   <img src="https://github.com/lherna/lherna.github.io/blob/main/images/portrait_main.png" width="300" title="Luis Hernandez">
